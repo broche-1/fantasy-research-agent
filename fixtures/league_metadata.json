@@ -1,0 +1,43 @@
+{
+  "fantasy_content": {
+    "xml:lang": "en-US",
+    "yahoo:uri": "/fantasy/v2/league/nfl.l.303321",
+    "league": [
+      {
+        "league_key": "461.l.303321",
+        "league_id": "303321",
+        "name": "Applebees",
+        "url": "https://football.fantasysports.yahoo.com/f1/303321",
+        "logo_url": "https://s.yimg.com/ep/cx/blendr/v2/image-avatar-football-trophy-kc-png_1721783527415.png",
+        "draft_status": "postdraft",
+        "num_teams": 12,
+        "edit_key": "8",
+        "weekly_deadline": "",
+        "roster_type": "week",
+        "league_update_timestamp": "1761031234",
+        "scoring_type": "head",
+        "league_type": "private",
+        "renew": "449_292149",
+        "renewed": "",
+        "felo_tier": "silver",
+        "is_highscore": false,
+        "matchup_week": 7,
+        "iris_group_chat_id": "",
+        "allow_add_to_dl_extra_pos": 1,
+        "is_pro_league": "0",
+        "is_cash_league": "0",
+        "current_week": 8,
+        "start_week": "1",
+        "start_date": "2025-09-04",
+        "end_week": "17",
+        "end_date": "2025-12-29",
+        "is_plus_league": "0",
+        "game_code": "nfl",
+        "season": "2025"
+      }
+    ],
+    "time": "33.463954925537ms",
+    "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
+    "refresh_rate": "60"
+  }
+}

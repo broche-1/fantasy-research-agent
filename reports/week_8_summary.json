@@ -1,0 +1,352 @@
+{
+  "week": 8,
+  "team_key": "l.303321.t.8",
+  "team_name": "Ur gunna Drake Maye cum",
+  "matchup": {
+    "week": 8,
+    "status": "midevent",
+    "result": "in_progress",
+    "team": {
+      "key": "461.l.303321.t.8",
+      "name": "Ur gunna Drake Maye cum",
+      "points": 0.0,
+      "projected_points": 73.93,
+      "win_probability": 0.30000000000000004
+    },
+    "opponent": {
+      "key": "461.l.303321.t.11",
+      "name": "C. Bass",
+      "points": 0.0,
+      "projected_points": 93.2,
+      "win_probability": 0.7
+    }
+  },
+  "lineup": {
+    "starters": [
+      {
+        "player_key": "461.p.31002",
+        "editorial_player_key": "nfl.p.31002",
+        "name": "Lamar Jackson",
+        "position": "QB",
+        "slot": "QB",
+        "is_flex": false,
+        "points": 0.0,
+        "projected_points": 23.589999999999996,
+        "eligible_positions": [
+          "QB"
+        ],
+        "bye_week": 7
+      },
+      {
+        "player_key": "461.p.40908",
+        "editorial_player_key": "nfl.p.40908",
+        "name": "Ladd McConkey",
+        "position": "WR",
+        "slot": "WR",
+        "is_flex": false,
+        "points": 0.0,
+        "projected_points": 9.785714285714286,
+        "eligible_positions": [
+          "WR",
+          "W/R/T"
+        ],
+        "bye_week": 12
+      },
+      {
+        "player_key": "461.p.33398",
+        "editorial_player_key": "nfl.p.33398",
+        "name": "DeVonta Smith",
+        "position": "WR",
+        "slot": "WR",
+        "is_flex": false,
+        "points": 0.0,
+        "projected_points": 11.62857142857143,
+        "eligible_positions": [
+          "WR",
+          "W/R/T"
+        ],
+        "bye_week": 9
+      },
+      {
+        "player_key": "461.p.32725",
+        "editorial_player_key": "nfl.p.32725",
+        "name": "J.K. Dobbins",
+        "position": "RB",
+        "slot": "RB",
+        "is_flex": false,
+        "points": 0.0,
+        "projected_points": 11.714285714285717,
+        "eligible_positions": [
+          "RB",
+          "W/R/T"
+        ],
+        "bye_week": 12
+      },
+      {
+        "player_key": "461.p.40102",
+        "editorial_player_key": "nfl.p.40102",
+        "name": "Tucker Kraft",
+        "position": "TE",
+        "slot": "TE",
+        "is_flex": false,
+        "points": 0.0,
+        "projected_points": 11.4,
+        "eligible_positions": [
+          "TE",
+          "W/R/T"
+        ],
+        "bye_week": 5
+      },
+      {
+        "player_key": "461.p.32887",
+        "editorial_player_key": "nfl.p.32887",
+        "name": "Jauan Jennings",
+        "position": "WR",
+        "slot": "W/R/T",
+        "is_flex": true,
+        "points": 0.0,
+        "projected_points": 6.34,
+        "eligible_positions": [
+          "WR",
+          "W/R/T"
+        ],
+        "bye_week": 14
+      },
+      {
+        "player_key": "461.p.41081",
+        "editorial_player_key": "nfl.p.41081",
+        "name": "Joshua Karty",
+        "position": "K",
+        "slot": "K",
+        "is_flex": false,
+        "points": 0.0,
+        "projected_points": 0.0,
+        "eligible_positions": [
+          "K"
+        ],
+        "bye_week": 8
+      },
+      {
+        "player_key": "461.p.100014",
+        "editorial_player_key": "nfl.p.100014",
+        "name": "Los Angeles",
+        "position": "DEF",
+        "slot": "DEF",
+        "is_flex": false,
+        "points": 0.0,
+        "projected_points": 0.0,
+        "eligible_positions": [
+          "DEF"
+        ],
+        "bye_week": 8
+      },
+      {
+        "player_key": "placeholder-RB-15",
+        "editorial_player_key": null,
+        "name": "Open Slot",
+        "position": "RB",
+        "slot": "RB",
+        "is_flex": false,
+        "points": 0.0,
+        "projected_points": 0.0,
+        "eligible_positions": [
+          "RB"
+        ],
+        "bye_week": null
+      }
+    ],
+    "bench": [
+      {
+        "player_key": "461.p.40059",
+        "editorial_player_key": "nfl.p.40059",
+        "name": "Jahmyr Gibbs",
+        "position": "RB",
+        "slot": "BN",
+        "is_flex": false,
+        "points": 0.0,
+        "projected_points": 0.0,
+        "eligible_positions": [
+          "RB",
+          "W/R/T"
+        ],
+        "bye_week": 8
+      },
+      {
+        "player_key": "461.p.40900",
+        "editorial_player_key": "nfl.p.40900",
+        "name": "Caleb Williams",
+        "position": "QB",
+        "slot": "BN",
+        "is_flex": false,
+        "points": 0.0,
+        "projected_points": 18.27333333333333,
+        "eligible_positions": [
+          "QB"
+        ],
+        "bye_week": 5
+      },
+      {
+        "player_key": "461.p.40090",
+        "editorial_player_key": "nfl.p.40090",
+        "name": "Marvin Mims Jr.",
+        "position": "WR",
+        "slot": "BN",
+        "is_flex": false,
+        "points": 0.0,
+        "projected_points": 6.857142857142857,
+        "eligible_positions": [
+          "WR",
+          "W/R/T"
+        ],
+        "bye_week": 12
+      },
+      {
+        "player_key": "461.p.33389",
+        "editorial_player_key": "nfl.p.33389",
+        "name": "Trevor Lawrence",
+        "position": "QB",
+        "slot": "BN",
+        "is_flex": false,
+        "points": 0.0,
+        "projected_points": 0.0,
+        "eligible_positions": [
+          "QB"
+        ],
+        "bye_week": 8
+      },
+      {
+        "player_key": "461.p.31019",
+        "editorial_player_key": "nfl.p.31019",
+        "name": "Dallas Goedert",
+        "position": "TE",
+        "slot": "BN",
+        "is_flex": false,
+        "points": 0.0,
+        "projected_points": 11.6,
+        "eligible_positions": [
+          "TE",
+          "W/R/T"
+        ],
+        "bye_week": 9
+      },
+      {
+        "player_key": "461.p.31908",
+        "editorial_player_key": "nfl.p.31908",
+        "name": "Terry McLaurin",
+        "position": "WR",
+        "slot": "BN",
+        "is_flex": false,
+        "points": 0.0,
+        "projected_points": 6.633333333333333,
+        "eligible_positions": [
+          "WR",
+          "W/R/T"
+        ],
+        "bye_week": 12
+      },
+      {
+        "player_key": "461.p.30295",
+        "editorial_player_key": "nfl.p.30295",
+        "name": "Aaron Jones Sr.",
+        "position": "RB",
+        "slot": "BN",
+        "is_flex": false,
+        "points": 0.0,
+        "projected_points": 8.25,
+        "eligible_positions": [
+          "RB",
+          "W/R/T",
+          "IR"
+        ],
+        "bye_week": 6
+      }
+    ],
+    "injured_reserve": [],
+    "totals": {
+      "starter_count": 9,
+      "bench_count": 7,
+      "ir_count": 0,
+      "player_count": 16
+    }
+  },
+  "lineup_efficiency": {
+    "data_available": true,
+    "actual_points": 0.0,
+    "optimal_points": 0.0,
+    "points_left_on_bench": 0.0,
+    "notes": "Bench comparison assumes identical positional eligibility.",
+    "projected_points": 74.46,
+    "bench_projected_points": 51.61,
+    "projected_optimal_points": 79.72,
+    "projected_points_gain": 5.26
+  },
+  "bench_review": {
+    "data_available": true,
+    "starter_points": 0.0,
+    "bench_points": 0.0,
+    "starter_projected_points": 74.46,
+    "bench_projected_points": 51.61,
+    "starter_count": 9,
+    "bench_count": 7,
+    "notes": null
+  },
+  "waiver_watch": [
+    {
+      "type": "win_probability",
+      "message": "Win probability sits at 30%. Consider waiver moves or lineup tweaks to swing the matchup."
+    }
+  ],
+  "bench_recommendations": [
+    {
+      "bench_player": {
+        "name": "Dallas Goedert",
+        "position": "TE",
+        "slot": "BN",
+        "projected_points": 11.6
+      },
+      "starter": {
+        "name": "Jauan Jennings",
+        "position": "WR",
+        "slot": "W/R/T",
+        "projected_points": 6.34
+      },
+      "projected_difference": 5.26
+    }
+  ],
+  "free_agent_targets": [
+    {
+      "name": "Aaron Rodgers",
+      "position": "QB",
+      "team": "Pit",
+      "projected_points": 17.6
+    },
+    {
+      "name": "Carson Wentz",
+      "position": "QB",
+      "team": "Min",
+      "projected_points": 16.64
+    },
+    {
+      "name": "Mac Jones",
+      "position": "QB",
+      "team": "SF",
+      "projected_points": 15.51
+    },
+    {
+      "name": "Spencer Rattler",
+      "position": "QB",
+      "team": "NO",
+      "projected_points": 14.29
+    },
+    {
+      "name": "Bryce Young",
+      "position": "QB",
+      "team": "Car",
+      "projected_points": 13.92
+    }
+  ],
+  "projection_context": {
+    "source": "derived",
+    "description": "Projected points are computed from season stats per game using league scoring modifiers. Yahoo matchup projections shown above come directly from the API."
+  }
+}

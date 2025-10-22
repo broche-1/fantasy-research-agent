@@ -1,0 +1,17 @@
+app:
+  report_day: Tuesday
+  report_output_dir: reports
+  report_filename_pattern: week_{week}_report.md
+
+yahoo:
+  league_id: YOUR_LEAGUE_ID
+  team_id: YOUR_TEAM_ID
+  scoring_week_offset: 0
+
+logging:
+  config_path: config/logging.conf
+
+oauth:
+  token_store_path: config/tokens.json
+  auth_url: https://api.login.yahoo.com/oauth2/request_auth
+  token_url: https://api.login.yahoo.com/oauth2/get_token

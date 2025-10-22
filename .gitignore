@@ -1,0 +1,19 @@
+# Environment
+.env
+.venv/
+env/
+
+# Python cache
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+
+# Logs and reports
+logs/*.log
+reports/*.html
+
+# OAuth tokens
+config/tokens.json
+
+# Tooling
+.DS_Store
