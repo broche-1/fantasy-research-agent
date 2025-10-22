@@ -7,13 +7,26 @@ env/
 __pycache__/
 .pytest_cache/
 .mypy_cache/
+.cache/
+
+# Coverage reports
+.coverage
+coverage.xml
 
 # Logs and reports
 logs/*.log
 reports/*.html
+
+# Runtime caches
+config/cache/
+!config/cache/.gitkeep
 
 # OAuth tokens
 config/tokens.json
 
 # Tooling
 .DS_Store
+
+# IDE
+.idea/
+.vscode/
